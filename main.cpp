@@ -7,6 +7,7 @@
 
 #include <stdlib.h>
 
+//hai capek ya
 
 void myInit(void)
  {
