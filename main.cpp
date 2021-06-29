@@ -8,6 +8,7 @@
 #include <stdlib.h>
 
 //hai capek ya
+//ini alim lho
 
 void myInit(void)
  {
